@@ -1,0 +1,43 @@
+.topBarContainer {
+  width: 100%;
+  height: 85px;
+}
+.itemsContainer {
+  display: flex;
+  flex-direction: row;
+}
+.iconContainer {
+  margin-left: 100px;
+  display: flex;
+  flex-direction: row;
+}
+.iconContainer img {
+  width: 70px;
+  height: 70px;
+  margin-top: 18px;
+}
+.iconContainer h3 {
+  font-size: 40px;
+  margin-top: 30px;
+  color: #112945;
+  cursor: pointer;
+}
+.menuContainer {
+  margin-left: 110px;
+}
+.menuContainer ul {
+  display: flex;
+}
+.menuContainer ul li {
+  list-style-type: none;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.menuContainer ul li a {
+  font-size: 15px;
+  color: #222222;
+  text-decoration: none;
+}
+.active {
+  color: #0082f3;
+}

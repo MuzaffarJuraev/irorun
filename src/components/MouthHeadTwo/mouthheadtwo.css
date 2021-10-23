@@ -1,0 +1,25 @@
+.mouthHeadContentContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 200px;
+  padding: 200px;
+  margin-top: 140px;
+}
+.mouthHeadContentContainer div {
+  flex: 50%;
+}
+.mouthHeadContentContainer div h1 {
+  font-size: 45px;
+  font: 400;
+  line-height: 50px;
+  color: #333333;
+}
+
+.mouthHeadContentContainer div p {
+  font-size: 24px;
+  font: 400;
+  line-height: 35px;
+  color: #333333;
+  margin-top: 32px;
+}

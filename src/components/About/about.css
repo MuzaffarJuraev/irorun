@@ -1,0 +1,60 @@
+.about {
+  padding-top: 50px;
+}
+.about h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 400;
+
+  color: #333333;
+}
+.cardContainer {
+  padding: 40px 194px 30px 194px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card {
+  width: 303px;
+  height: 327px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 10px #aaa;
+}
+.cardContainer span {
+  margin: 0 26px;
+}
+.card p {
+  text-align: center;
+  line-height: 25px;
+  font-size: 16px;
+}
+.cardContainer .btn {
+  color: #333333;
+  font-size: 40px;
+  color: #582eff;
+}
+.firtsCard {
+  border-top: 12px solid #582eff;
+}
+.secondCard {
+  border-top: 12px solid #ff814a;
+}
+.thirdCard {
+  border-top: 12px solid #31c5a1;
+}
+.firstIcon {
+  color: #582eff;
+  font-size: 60px;
+}
+.secondIcon {
+  color: #ff814a;
+  font-size: 60px;
+}
+.thirdIcon {
+  color: #31c5a1;
+  font-size: 60px;
+}
