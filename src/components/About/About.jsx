@@ -14,11 +14,11 @@ const About = () => {
           <i className="fas fa-arrow-circle-right btn"></i>
         </span>
         <div className="card secondCard">
-          <i class="fab fa-intercom secondIcon"></i>
+          <i className="fab fa-intercom secondIcon"></i>
           <p style={{ margin: "30px 0 20px 0" }}>Apply for a loan</p>
           <p>
-            Apply for a loan and our technolagy will run a credit score and
-            decide if you are qualified.
+            Apply for a loan and our <br /> technolagy will run a credit score
+            <br /> and decide if you are qualified.
           </p>
         </div>
         <span>

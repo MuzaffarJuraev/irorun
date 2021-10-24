@@ -1,0 +1,15 @@
+.appStoreContainer{
+    height: 371px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #31c5a1;
+}
+.appStoreContainer h1{
+    background: #31c5a1;
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #ffffff;
+}
